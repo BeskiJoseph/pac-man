@@ -1,6 +1,6 @@
 # Pac_man
 
-Link: https://gowthammca23.github.io/Pac_man/
+Link: 
 
 PACMAN
 
